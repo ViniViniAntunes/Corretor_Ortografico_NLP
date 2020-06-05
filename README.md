@@ -3,7 +3,7 @@
 </p>
     
 <h1 align="center">
-  <h2 align="center"><strong align="center">Corretor Ortografico</strong></h2>
+  <h2 align="center"><strong align="center"> Corretor Ortografico (NLP) </strong></h2>
 </h1>
 
 <br>
