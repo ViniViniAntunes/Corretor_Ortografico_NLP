@@ -8,7 +8,7 @@
 
 <br>
 
-<h2><img src="Corretor_Ortografico/images/descricao.svg" width=50px/> Descrição </h2>
+<h2><img src="images/descricao.svg" width=50px/> Descrição </h2>
 
 <p>
   Um corretor ortográfico usando Python.
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2><img src="Corretor_Ortografico/images/ideia.svg" width=50px/> A ideia </h2>
+<h2><img src="images/ideia.svg" width=50px/> A ideia </h2>
 <p align="center" >
   
 </p>
@@ -34,32 +34,32 @@
 <p>
   E foi utilizada a biblioteca:
   <ul>
-    <li> nltk <img src="Corretor_Ortografico/images/processamento-de-linguagem-natural.svg" width=30px/></li>
+    <li> nltk <img src="images/processamento-de-linguagem-natural.svg" width=30px/></li>
   </ul>  
 </p>
 
 <br>
 
-<h2><img src="Corretor_Ortografico/images/como_rodar.svg" width=50px/> Como usar? </h2>
+<h2><img src="images/como_rodar.svg" width=50px/> Como usar? </h2>
 <p>
   Basta ter uma conta Google, abrir o notebook no colaboratory e baixar oas arquivos <code>treinamento.txt</code> (para treinar o algoritmo) e <code>palavras.txt</code> (para fazer a avaliação do algoritmo).
 </p>
 
 <br>
 
-<h2><img src="Corretor_Ortografico/images/palavras.svg" width=50px/> Fonte dos textos </h2>
+<h2><img src="images/palavras.svg" width=50px/> Fonte dos textos </h2>
 <ul>
     <li>Os textos utilizados para o treinamento do algoritmo bem como as palavras para avaliá-lo, foram fornecidos pelo próprio curso.</li>
 </ul>
 <br>
 
-<h2><img src="Corretor_Ortografico/images/guia.svg" width=50px/> Próximas etapas </h2>
+<h2><img src="images/guia.svg" width=50px/> Próximas etapas </h2>
 <ul>
   <li>Montar o meu prórpio arquivo de texto para treinamento do algoritmo através de web scraping (talvez?)</li>
   <li>Melhorar a taxa de acertos do corretor. (Qualquer ajuda para juntar as funções criadas é muito bem vinda!)</li>
 <br>
 
-<h2><img src="Corretor_Ortografico/images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
+<h2><img src="images/agradecimentos.svg" width=50px/> Agradecimentos </h2>
 
 <ul>
   <li><a href="https://www.linkedin.com/in/thiago-gonçalves-santos/" target="_blank"> Thiago Gonçalves Santos </a> (pelo excelente curso)</li>
@@ -84,7 +84,7 @@
 
 <br>
 
-<h2><img src="Corretor_Ortografico/images/autor.svg" width=50px/> Autor </h2>
+<h2><img src="images/autor.svg" width=50px/> Autor </h2>
 
 <table>
   <tr>
