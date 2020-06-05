@@ -34,7 +34,7 @@
 <p>
   E foi utilizada a biblioteca:
   <ul>
-    <li> nltk <img src="images/processamento-de-linguagem-natural.svg" width=30px/></li>
+    <li> nltk <img src="images/processamento-de-linguagem-natural.svg" width=50px/></li>
   </ul>  
 </p>
 
