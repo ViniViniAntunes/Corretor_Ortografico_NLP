@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/check.svg" float="center" width=250px/>
+  <img src="images/correcao.svg" float="center" width=250px/>
 </p>
     
 <h1 align="center">
