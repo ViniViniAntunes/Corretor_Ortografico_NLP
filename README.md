@@ -24,7 +24,7 @@
 <br>
 
 <p>
-  O projeto foi feito após assistir ao curso <a href="https://cursos.alura.com.br/course/nlp-corretor-ortografico" target="_blank">Corretor Ortográfico em Python: Aplicando técnicas de NLP</a> da plataforma <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
+  O projeto foi feito no curso <a href="https://cursos.alura.com.br/course/nlp-corretor-ortografico" target="_blank">Corretor Ortográfico em Python: Aplicando técnicas de NLP</a> da plataforma <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
 </p>
 
 <p>Ao final da primeira aula, esse curso já estava na lista dos meus TOP 3 cursos que fiz nessa plataforma.<br>Thiago Gonçalves Santos, o intrutor do curso, de maneira extremamente didática nos ensina a aplicar algumas técnicas da Linguagem de Processamento Natural (NLP) para construir um corretor ortográfico.</p>
