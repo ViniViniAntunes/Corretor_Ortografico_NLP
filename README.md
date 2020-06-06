@@ -42,7 +42,7 @@
 
 <h2><img src="images/como_rodar.svg" width=50px/> Como usar? </h2>
 <p>
-  Basta ter uma conta Google, abrir o notebook no colaboratory e baixar oas arquivos <code>treinamento.txt</code> (para treinar o algoritmo) e <code>palavras.txt</code> (para fazer a avaliação do algoritmo).
+  Basta ter uma conta Google, abrir o notebook no colaboratory e baixar os arquivos <code>treinamento.txt</code> (para treinar o algoritmo) e <code>palavras.txt</code> (para fazer a avaliação do algoritmo).
 </p>
 
 <br>
@@ -93,3 +93,4 @@
 </table>
 
 <br>
+<sub>PS: Os textos daqui e dos comentários no código não passaram pelo crivo do corretor ortográfico.</sub>
