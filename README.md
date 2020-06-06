@@ -93,4 +93,4 @@
 </table>
 
 <br>
-<sub>PS: Os textos daqui e dos comentários no código não passaram pelo crivo do corretor ortográfico.</sub>
+<sub>PS: Os textos daqui e dos comentários no código não passaram pelo corretor ortográfico.</sub>
